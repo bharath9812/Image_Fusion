@@ -11,14 +11,11 @@ from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QMenu, QAction
 import os
 
-
-# from scripts import dwt_script as dwt
-# from scripts import laplace_region_based_multi_resolution as laplace
-
+#set your scripts path folder
 scripts_path ='/Users/chintubharath/Documents/sdp/scripts'
 sys.path.insert(1, scripts_path)
 
-# import dwt_script as dwt
+import dwt_script as dwt
 import laplace_region_based_multi_resolution as laplace
 import vgg19 as vgg_cnn
 import pca_ihs as pca_ihs
