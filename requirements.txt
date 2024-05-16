@@ -6,3 +6,4 @@ scikit-learn
 PyWavelets
 pillow
 tk
+opencv-contrib-python
