@@ -50,10 +50,10 @@ A graphical user interface (GUI) is also provided to facilitate easy use of thes
 
 ## How to Use
 
-To start the GUI and use the image fusion methods, ensure all the required scripts and modules are in the same directory. Then, run the `gui.py` script:
+To start the GUI and use the image fusion methods, ensure that you updated `scripts_path` with your scripts directory in `gui.py`. Then, run the `gui.py` script:
 
 ```sh
 python gui.py
 ```
 
-Follow the instructions on the GUI to select and fuse images. The GUI supports simple image fusion methods like blending.
+Follow the instructions on the GUI to select and fuse images.
