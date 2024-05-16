@@ -30,6 +30,7 @@ A graphical user interface (GUI) is also provided to facilitate easy use of thes
 - Numpy
 - Scikit-learn
 - PyWavelets
+- torch
 - Pillow
 - Tkinter
 
